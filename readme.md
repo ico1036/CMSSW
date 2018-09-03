@@ -1,5 +1,5 @@
 ## CMSSW study  
-### This requires cmssw env (cmsset) and CENR account  
+### This requires cmssw env (cmsset) and CERN account  
   
 #### genall.sh file is our final purpose  
 #### After the understanding of pre-workshop process, we will do genall.sh  
